@@ -24,7 +24,11 @@
 
 # 如何啓動？
 
-	$ node cluster.js
+	$ npm start
+
+或
+
+	$ node develop.js
 
 或是利用 gulp
 
