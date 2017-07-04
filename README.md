@@ -42,9 +42,9 @@
 1. POST /api/images/upload
 ```
 
-| body | Description |
-| ------| ------ |
-| image | required Type:base64 |
+| body | required | Type |
+| ------| ------ | ------ |
+| image | required | base64 |
 	
 ```	
 2. GET /images/:id/(:size)
