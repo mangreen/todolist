@@ -1,0 +1,19 @@
+{
+  "name": "dcard",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "julien"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
